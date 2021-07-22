@@ -1,1 +1,1 @@
-worcer: node main.js
+worcer: node main
